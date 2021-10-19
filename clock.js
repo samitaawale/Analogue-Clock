@@ -27,4 +27,8 @@ function drawFace(ctx, radius){
     ctx.fillStyle='#333';
     ctx.fill();
 
+
+}
+function drawArc(){
+    
 }
